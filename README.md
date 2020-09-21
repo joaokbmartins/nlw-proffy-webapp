@@ -1,4 +1,4 @@
-# Next-Level-Week's Proffy App (Web module)
+# Proffy App - Web module (Next-Level-Week)
 
 This is the web front-end module of Proffy App . To fully experece it's funtionalities, the server side module (witch is available at the following link: [nlw-proffy-appserver](https://github.com/joaokbmartins/nlw-proffy-appserver)) is required.
 
