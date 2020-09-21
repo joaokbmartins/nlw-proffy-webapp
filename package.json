@@ -3,7 +3,7 @@
   "description": "Rocketseat's Next Level Week marathon Proffy's App WEB module",
   "main": "index.js",
   "author": "Joao K B Martins",
-  "license": "ISC",
+  "license": "MIT",
   "version": "0.1.0",
   "private": true,
   "engines": {
