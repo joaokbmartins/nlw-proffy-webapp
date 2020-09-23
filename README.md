@@ -1,6 +1,6 @@
-# Proffy App - Web Module (Next-Level-Week)
+# Proffy App - Web REST Client (Next-Level-Week)
 
-This is the web front-end module of Proffy App . To fully experece it's funtionalities, the REST API module (witch is available at the following link: [nlw-proffy-restapi](https://github.com/joaokbmartins/nlw-proffy-restapi)) is required.
+This is the web REST Client for Proffy's App . To fully experece it's funtionalities, the REST API module (witch is available at the following link: [nlw-proffy-restapi](https://github.com/joaokbmartins/nlw-proffy-restapi)) is required.
 
 Here you can find a [live demo](https://5f67cb5654e3f20007f5bb08--naughty-ramanujan-b7bb9a.netlify.app/).
 
